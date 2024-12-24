@@ -9,7 +9,6 @@ module "vpc2" {
     single_nat_gateway = true
     enable_dns_hostnames = true
     tags = {
-        Name = "yap-vpc2"
         Terraform = "true"
         }
 }
