@@ -1,2 +1,5 @@
-# tf-vpc-peering-241224
-Self challenge to create 2x VPCs and link them via VPC peering.
+# Lesson 2.11 - VPC Peering (Reference from In-Class-Activity)
+
+Step 1: Create Two VPCs with different CIDRs
+Step 2: Setup VPC Peering
+
