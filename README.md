@@ -1,4 +1,4 @@
-# Lesson 2.11 - VPC Peering (Details is in Lesson 2.11 In-Class-Activity)
+## Lesson 2.11 - VPC Peering (Details is in Lesson 2.11 In-Class-Activity)
 
 Step 1: Create Two VPCs with different CIDRs
 
